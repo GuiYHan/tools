@@ -1,0 +1,1 @@
+FOR /L %i IN (1,1,23) DO image-scraper http://www.sample.info/html/2018/02/1866384.html/%i
